@@ -28,9 +28,9 @@ class Employee {
         }
     }
      const employees = new Employee();
-     employees.map
+     employees.map = []
      const managers = new Manager();
-     managers.map
+     managers.map = []
 
      logManagerInfo =() => {
         this.name
